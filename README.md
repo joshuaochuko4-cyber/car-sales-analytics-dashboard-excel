@@ -4,9 +4,7 @@ Built a Car Sales Analytics Dashboard in Excel analyzing used vehicle listings a
 
 ### Built with Microsoft Excel | By Isah Joshua
 
-![Dashboard Preview](![image](https://github.com/user-attachments/assets/ca8727ef-8ec0-4807-b4b4-d92358d091f5)
-),![image](https://github.com/user-attachments/assets/9e9a7af2-29bf-492d-bc3d-5a246c3d93b6),![image](https://github.com/user-attachments/assets/00466a79-f9f5-454c-bc07-fbc6f2bae197)
-
+![Dashboard Preview](![image](https://github.com/user-attachments/assets/ca8727ef-8ec0-4807-b4b4-d92358d091f5), ![image](https://github.com/user-attachments/assets/5ec0f344-c1d7-4c85-a825-60a59d6b7eaf), ![image](https://github.com/user-attachments/assets/1ebf3960-f5f1-42fb-8ad0-3740adacb8e1)
 
 
 
