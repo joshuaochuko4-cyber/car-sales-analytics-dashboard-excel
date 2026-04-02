@@ -87,7 +87,8 @@ to make smarter buying and selling decisions.
 |------|-------------|
 | `![image](https://github.com/user-attachments/assets/99183814-8732-46e9-b1c4-6d888ac2359a)
 ` | Screenshot of the Excel dashboard |
-| `https://docs.google.com/spreadsheets/d/1yChdn8veUlEY51sAKyDad9wn0EiYgyp_/edit?usp=drivesdk&ouid=114418212872905157650&rtpof=true&sd=true` | Full Excel workbook with data, pivot tables & dashboard |
+
+| `https://github.com/joshuaochuko4-cyber/car-sales-analytics-dashboard-excel/blob/44beff62aa3c42ae108214664bd8524eb9c3105d/ISAH%20JOSHUA%20CAR45.xlsx` | Full Excel workbook with data, pivot tables & dashboard |
 
 ---
 
